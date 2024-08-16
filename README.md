@@ -1,5 +1,4 @@
 
-Here is the updated README file with the new features included:
 
 Weather App ☔
 Weather App is a simple web application built with React and Vite that allows users to search for a city and retrieve the current weather conditions and forecast.
@@ -13,23 +12,20 @@ Make sure you have Node.js and npm installed on your machine.
 Installation
 Clone the Repository:
 
+bash
+Copy code
+git clone https://github.com/IshikaGoswami/weather_app
 
 
 Navigate to the Project Directory:
+cd weather-app 
 
-bash
-Copy code
-cd weather-app
 Install Dependencies:
-
-bash
-Copy code
 npm install
-Run the Application:
 
-bash
-Copy code
+Run the Application:
 npm run dev
+
 This will start the local development server.
 
 Features ✨
